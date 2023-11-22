@@ -40,7 +40,7 @@ getFee(transactionTime) {
 NOTE: Algorand Round-Hash Mapper needs to be running
 
 ```
-git clone https://github.com/FlexFinTx/sidetree-algorand.git
+git clone https://github.com/ssidwallet/sidetree-algorand.git
 cd sidetree-algorand
 npm install
 npm run build

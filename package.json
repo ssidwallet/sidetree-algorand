@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FlexFinTx/sidetree-algorand.git"
+    "url": "git+https://github.com/ssidwallet/sidetree-algorand.git"
   },
   "keywords": [
     "blockchain",
@@ -44,7 +44,7 @@
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/FlexFinTx/sidetree-algorand/issues"
+    "url": "https://github.com/ssidwallet/sidetree-algorand/issues"
   },
-  "homepage": "https://github.com/FlexFinTx/sidetree-algorand#readme"
+  "homepage": "https://github.com/ssidwallet/sidetree-algorand#readme"
 }
