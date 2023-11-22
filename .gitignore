@@ -1,0 +1,15 @@
+dist/
+node_modules/
+nunitresults.xml
+
+# Istanbul code coverage folders
+.nyc_output/
+coverage/
+
+# sidetree-ipfs data folder
+sidetree-ipfs/
+
+json/algorand-config.json
+json/core-config.json
+json/ipfs-config.json
+json/core-protocol-versioning.json
